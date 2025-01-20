@@ -25,12 +25,9 @@ Para rodar o projeto localmente, siga os passos abaixo:
 Clone o repositório:
 
 Copiar
-git clone [insiro o link em breve]
+git clone (https://github.com/danielmegatech/controlefinanceiro366)
 Navegue até o diretório do projeto:
 
-Copiar
-cd nome-do-repositorio
-Abra o arquivo index.html em um navegador:
 
 Você pode abrir o arquivo diretamente ou usar um servidor local para melhor desempenho.
 Uso
